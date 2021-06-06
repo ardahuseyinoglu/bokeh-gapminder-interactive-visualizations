@@ -1,2 +1,2 @@
-How to run
-bokeh serve --show gapminder.py
+**How to run** <br>
+```bokeh serve --show gapminder.py```
